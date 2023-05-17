@@ -1,8 +1,6 @@
 ## :satisfied: Soye Lee's 42 Cursus Github Page
 
-<p align="center">
-  [![solee2's 42 stats](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-</p>
+<div align="center">[![solee2's 42 stats](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)</div>
 
 
 ## :computer: 42 cursus (2022/11/07~)
