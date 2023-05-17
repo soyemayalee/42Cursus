@@ -3,7 +3,7 @@
 
 In this exam, we were given 4 questions to solve. 1 question per level was given (from level 0 to level 3). As you know, these questions are randomly given and you cannot know or see the next question before you pass the current one. Because I don't have access to the codes I pushed during the exam, all the files uploaded were rewritten after the exam based on my memory. 
 
-## Level 0 Subject##
+## Level 0 Subject ##
 ```
 Assignment name  : ulstr
 Expected files   : ulstr.c
@@ -78,8 +78,6 @@ $>
 ```
 
 ## Level 3 Subject ##
-## Subject
-
 ```
 Assignment name  : fprime
 Expected files   : fprime.c
