@@ -13,7 +13,7 @@
 |        | [**born2beroot**](https://github.com/soyemayalee/42Cursus/tree/born2beroot)          | ![](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/project/2906488) |   2.15   |
 |   03   | [**minitalk**](https://github.com/soyemayalee/42Cursus/tree/minitalk)                | ![](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/project/2941815) |   2.60   |
 |        | [**Exam Rank 02**](https://github.com/soyemayalee/42Cursus/tree/exam_rank_02)        | ![](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/project/3081306) |   2.60   |
-|        | [**push_swap**](https://github.com/soyemayalee/42Cursus/tree/push_swap)              | ![](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/project/2934531) |   ----   |
+|        | [**push_swap**](https://github.com/soyemayalee/42Cursus/tree/push_swap)              | ![](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/project/2934531) |   3.04   |
 |        | [**so_long**](https://github.com/soyemayalee/42Cursus/tree/so_long)                  | ![](https://badge42.vercel.app/api/v2/clhqgt9ii001108n0xa0e285f/project/3047994) |   ----   |
 <!---               |        | [**cub3d**](https://github.com/jwon42/42cursus_07_cub3d)                             | ![](https://badge42.vercel.app/api/v2/cl1n94s07000609myixypisjj/project/1901941) |   3.16   |
 <!---               |   04   | [**libasm**](https://github.com/jwon42/42cursus_08_libasm)                           | ![](https://badge42.vercel.app/api/v2/cl1n94s07000609myixypisjj/project/1947519) |   3.36   |
