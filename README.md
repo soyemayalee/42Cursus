@@ -39,3 +39,5 @@
 ---
 
 <!---               ## :camera: Intra Profile -->
+
+## :satisfied: Please reload page if you cannot see any of the scores and the badge.
